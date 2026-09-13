@@ -19,6 +19,7 @@ Never heard of "agent skills" before? You're in the right place. This is a commu
 **Step 2: Load it into your AI agent:**
 - Claude Code: `/skills add <github-url>`
 - Claude.ai: paste the raw SKILL.md URL in a new conversation
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
 - Codex / Copilot: follow platform docs linked in [Using Skills](#using-skills)
 
 **Step 3: Ask your AI to use it.** Just describe what you want in plain English.
