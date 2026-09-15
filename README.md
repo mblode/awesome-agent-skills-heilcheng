@@ -19,7 +19,6 @@ Never heard of "agent skills" before? You're in the right place. This is a commu
 **Step 2: Load it into your AI agent:**
 - Claude Code: `/skills add <github-url>`
 - Claude.ai: paste the raw SKILL.md URL in a new conversation
-- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
 - Codex / Copilot: follow platform docs linked in [Using Skills](#using-skills)
 
 **Step 3: Ask your AI to use it.** Just describe what you want in plain English.
@@ -550,6 +549,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - 26 skills for UI audits, typography, docs, PR review, and releases
 </details>
 
 <details>
